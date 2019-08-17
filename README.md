@@ -1,2 +1,0 @@
-# CI_Traning
-
